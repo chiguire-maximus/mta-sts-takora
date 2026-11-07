@@ -1,6 +1,8 @@
 version: STSv1
 mode: enforce
 mx: takora.net
-mx: fuscata.xyz
-mx: *.mailbox.org
+mx: mxext1.mailbox.org
+mx: mxext2.mailbox.org
+mx: mxext3.mailbox.org
+mx: mxext4.mailbox.org
 max_age: 1209600
